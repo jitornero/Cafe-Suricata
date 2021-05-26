@@ -21,3 +21,11 @@ footer {
     height: fit-content;
     padding: 50px;
 }
+
+.ubicacion {
+    text-align: center;
+}
+
+#registrate {
+text-align: right;
+}
